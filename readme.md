@@ -19,7 +19,7 @@ git clone https://github.com/mohammad-taghinejad/NeatFolder
 ## Usage
 1. Copy the script to your directory
 2. Go to your directory
-3. Open a terminal here
+3. Open a terminal(CMD) here.
 4. Execute the script
 ```bash
 .\Organize.bat
