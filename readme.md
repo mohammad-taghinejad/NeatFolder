@@ -37,6 +37,7 @@ By executing this command, all the files that have the mp4 extension along with 
 
 ------------
 Try it your self with `Test` directory.
-
+please use CMD.
+Not another terminals.
 
 
