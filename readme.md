@@ -1,6 +1,6 @@
 # NeatFolder
 
-**NeatFolder** is a simple and efficient tool for organizing and sorting messy files. This project helps you keep your directories neat and tidy by automatically moving files to designated folders based on their file extensions (e.g., PDFs, videos, Word documents).
+**NeatFolder** is a simple and efficient tool for organizing and sorting messy files. This project helps you keep your directories neat by automatically moving files to designated folders based on their file extensions (e.g., PDFs, videos, Word documents, etc).
 
 ## Features
 
